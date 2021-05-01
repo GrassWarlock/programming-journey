@@ -1,0 +1,4 @@
+started learning computer science 2021/02/21 (main resource: EdX CS50 2021)
+started learning python 2021/02/23 (main resource: Python 4 Everybody website by Charles Severence)
+started learning git and github 2021/04/25 (main resource: github's official tutorials/Colt Steele Youtube Channel)
+started learning 
