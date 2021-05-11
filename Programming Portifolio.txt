@@ -4,3 +4,6 @@ started learning basic git and github 2021/04/25 (main resource: github's offici
 started learning basic API usage 2021/05/01 (main resource: Facebook Graph API [through official documentation])
 started learning an introductionary about Linux 2021/05/04 (main resource: Linux Subreddit and Wikipedia)
 started learning basic C 2021/05/07 (main resource: EdX Harvard CS50 2021 Week 1)
+started learning basic HTML 2021/05/10 (main resource: Codecademy Learn HTML course)
+started learning about basic hacking 2021/05/11 (main resource: NetworkChuck YT channel, HackTheBox website, and TryHackMe website alongside HackerX mobile app)
+started learning about virtual machines and started using Linux for the first time [Kali Linux, to be exact] 2021/05/11 (main resource: VirtualBox virtualization app, NetworkChuck YT channel and the hacking courses listed above)
